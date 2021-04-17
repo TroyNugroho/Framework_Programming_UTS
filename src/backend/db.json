@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    },
+    {
+      "email": "budisetiawan@gmail.com",
+      "password": "$2y$12$Gh4F5m5vJwIxkOtln7ImWuiodxYF8AxQ/qp4Qq7NYeMhnuyBHTC2G"
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": " SAMSUNG ME731K ",
+      "stock": 75,
+      "price": "875.000",
+      "shortDesc": "SAMSUNG ME731K.",
+      "description": "SAMSUNG ME731K ",
+      "Lokasi" : "Jawa Timur",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/10/28/32c33de5-9dac-47c9-a70a-b2ed264b9cc3.jpg.webp?ect=4g"
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": " Microwave Sharp R21D0 Straight ",
+      "stock": 50,
+      "price": "869.000",
+      "shortDesc": "Sharp Microwave R-21D0(S)-IN Garansi Resmi Sharp 1 Tahun.",
+      "description": "Spesifikasi: Sharp Microwave R-21D0(S)-IN Garansi Resmi Sharp 1 Tahun Memiliki kapasitas besar dengan desain minimalis modern dapat menambah kesan modern dan stylish pada dapur Anda tercinta. Pintu Microwave yang terbuat dari tampered glass, Fungsi Defrost mampu menghangatkan kembali makanan beku .Makanan cepat matang, santap bersama keluarga semakin riang! .",
+      "Lokasi" : "Jawa Timur",
+      "img": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/9/21/38995319/38995319_78ac34e6-8281-49b4-b48f-43292826f914_846_846.webp?ect=4g"
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": " Microwave Solo 23L Samsung MS23 ",
+      "stock": 10,
+      "price": "1.099.000",
+      "shortDesc": "Microwave Solo 23L Samsung MS23",
+      "description": "Microwave Solo 23L Samsung MS23.",
+      "Lokasi" : "Jawa Timur",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/12/9/60eae5ee-6e40-4085-90a4-056eec4cce01.jpg.webp?ect=4g"
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": " Microwave Sharp R21D0 Straight ",
+      "stock": 69,
+      "price": "869.000",
+      "shortDesc": "Sharp Microwave R-21D0(S)-IN Garansi Resmi Sharp 1 Tahun.",
+      "description": "Spesifikasi: Sharp Microwave R-21D0(S)-IN Garansi Resmi Sharp 1 Tahun Memiliki kapasitas besar dengan desain minimalis modern dapat menambah kesan modern dan stylish pada dapur Anda tercinta. Pintu Microwave yang terbuat dari tampered glass, Fungsi Defrost mampu menghangatkan kembali makanan beku .Makanan cepat matang, santap bersama keluarga semakin riang! ",
+      "Lokasi" : "Jawa Timur",
+      "img": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/9/21/38995319/38995319_78ac34e6-8281-49b4-b48f-43292826f914_846_846.webp?ect=4g"
+    }
+  ]
+}
